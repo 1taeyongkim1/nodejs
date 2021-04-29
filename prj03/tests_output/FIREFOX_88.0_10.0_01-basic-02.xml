@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="01-basic-02"
+    errors="0" failures="1" hostname="" id="" package="01-basic-02" skipped="0"
+    tests="1" time="6.784" timestamp="">
+  
+    <testcase name="Get URL and title" classname="01-basic-02" time="6.784" assertions="1">  <failure message="Testing if the URL contains &#39;gooagle&#39; in 5000ms - expected &#34;contains &#39;gooagle&#39;&#34; but got: &#34;https://www.google.com/?gws_rd=ssl&#34; (5081ms)">    at Object.Get URL and title (C:\Users\taeyongkim\Desktop\working_folder\nodejs\prj03\tests\01-basic-02.js:5:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

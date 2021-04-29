@@ -1,0 +1,21 @@
+{
+  "name": "prj03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch",
+    "test01": "nightwatch -t tests/01-basic-01.js",
+    "test02": "nightwatch -t tests/01-basic-02.js",
+    "test03": "nightwatch -t tests/02-ecosia.js",
+    "test04": "nightwatch -t tests/02-ecosia-02.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^90.0.0",
+    "geckodriver": "^1.22.3",
+    "nightwatch": "^1.6.3"
+  }
+}

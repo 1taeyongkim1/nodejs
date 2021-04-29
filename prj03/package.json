@@ -20,7 +20,9 @@
         "test18": "nightwatch -c nightwatch.conf.js.chg -t tests/02-ecosia-02.js --env crn",
         "test21": "nightwatch -t tests/01-api-waitfor.js",
         "test22": "nightwatch -t tests/03-api-url.js",
-        "test23": "nightwatch -t tests/04-api-news.js"
+        "test23": "nightwatch -t tests/04-api-news.js",
+        "test31": "nightwatch tests/todo --env selenium.chrome,selenium.firefox",
+        "test32": "nightwatch tests --env selenium.chrome,selenium.firefox"
 
     },
     "keywords": [],

@@ -5,9 +5,9 @@
 
   <testsuite name="04-api-news"
     errors="0" failures="0" hostname="" id="" package="04-api-news" skipped="0"
-    tests="1" time="1.398" timestamp="">
+    tests="1" time="1.724" timestamp="">
   
-    <testcase name="demo test news" classname="04-api-news" time="1.398" assertions="2">
+    <testcase name="demo test news" classname="04-api-news" time="1.724" assertions="2">
 
     
 

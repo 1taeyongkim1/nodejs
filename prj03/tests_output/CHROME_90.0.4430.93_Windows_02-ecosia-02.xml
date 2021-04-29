@@ -5,9 +5,9 @@
 
   <testsuite name="02-ecosia-02"
     errors="0" failures="0" hostname="" id="" package="02-ecosia-02" skipped="0"
-    tests="2" time="6.897" timestamp="">
+    tests="2" time="4.822" timestamp="">
   
-    <testcase name="step one: navigate to ecosia.org" classname="02-ecosia-02" time="4.017" assertions="4">
+    <testcase name="step one: navigate to ecosia.org" classname="02-ecosia-02" time="2.809" assertions="4">
 
     
 
@@ -18,7 +18,7 @@
     
     </testcase>
   
-    <testcase name="step two: click submit" classname="02-ecosia-02" time="2.880" assertions="1">
+    <testcase name="step two: click submit" classname="02-ecosia-02" time="2.013" assertions="1">
 
     
     </testcase>

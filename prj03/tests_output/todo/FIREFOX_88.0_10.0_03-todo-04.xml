@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="todo.03-todo-04"
+    errors="0" failures="0" hostname="" id="" package="todo" skipped="0"
+    tests="1" time="1.526" timestamp="">
+  
+    <testcase name="When I add a task, it shows todo items" classname="todo.03-todo-04" time="1.526" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

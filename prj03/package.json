@@ -17,7 +17,11 @@
         "test15": "nightwatch -t tests/02-ecosia-02.js --env selenium.chrome",
         "test16": "nightwatch -t tests/02-ecosia-02.js --env selenium.firefox",
         "test17": "nightwatch -t tests/02-ecosia-02.js --env selenium.chrome",
-        "test18": "nightwatch -c nightwatch.conf.js.chg -t tests/02-ecosia-02.js --env crn"
+        "test18": "nightwatch -c nightwatch.conf.js.chg -t tests/02-ecosia-02.js --env crn",
+        "test21": "nightwatch -t tests/01-api-waitfor.js",
+        "test22": "nightwatch -t tests/03-api-url.js",
+        "test23": "nightwatch -t tests/04-api-news.js"
+
     },
     "keywords": [],
     "author": "",

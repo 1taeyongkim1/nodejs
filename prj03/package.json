@@ -1,21 +1,31 @@
 {
-  "name": "prj03",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "nightwatch",
-    "test01": "nightwatch -t tests/01-basic-01.js",
-    "test02": "nightwatch -t tests/01-basic-02.js",
-    "test03": "nightwatch -t tests/02-ecosia.js",
-    "test04": "nightwatch -t tests/02-ecosia-02.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "chromedriver": "^90.0.0",
-    "geckodriver": "^1.22.3",
-    "nightwatch": "^1.6.3"
-  }
+    "name": "prj03",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "nightwatch",
+        "test01": "nightwatch -t tests/01-basic-01.js",
+        "test02": "nightwatch -t tests/01-basic-02.js",
+        "test03": "nightwatch -t tests/01-basic-03.js",
+        "test04": "nightwatch -t tests/02-ecosia.js",
+        "test05": "nightwatch -t tests/02-ecosia-02.js",
+        "test11": "nightwatch -t tests/02-ecosia-02.js --env firefox",
+        "test12": "nightwatch -t tests/02-ecosia-02.js --env chrome",
+        "test13": "nightwatch -t tests/02-ecosia-02.js --env chrome,firefox",
+        "test14": "nightwatch -t tests/02-ecosia-02.js --env selenium.chrome,selenium.firefox",
+        "test15": "nightwatch -t tests/02-ecosia-02.js --env selenium.chrome",
+        "test16": "nightwatch -t tests/02-ecosia-02.js --env selenium.chrome",
+        "test17": "nightwatch -t tests/02-ecosia-02.js --env selenium.chrome",
+        "test18": "nightwatch -c nightwatch.conf.js.chg -t tests/02-ecosia-02.js --env crn"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "chromedriver": "^90.0.0",
+        "geckodriver": "^1.22.3",
+        "nightwatch": "^1.6.3",
+        "selenium-server": "^3.141.59"
+    }
 }

@@ -15,7 +15,7 @@
         "test13": "nightwatch -t tests/02-ecosia-02.js --env chrome,firefox",
         "test14": "nightwatch -t tests/02-ecosia-02.js --env selenium.chrome,selenium.firefox",
         "test15": "nightwatch -t tests/02-ecosia-02.js --env selenium.chrome",
-        "test16": "nightwatch -t tests/02-ecosia-02.js --env selenium.chrome",
+        "test16": "nightwatch -t tests/02-ecosia-02.js --env selenium.firefox",
         "test17": "nightwatch -t tests/02-ecosia-02.js --env selenium.chrome",
         "test18": "nightwatch -c nightwatch.conf.js.chg -t tests/02-ecosia-02.js --env crn"
     },

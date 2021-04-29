@@ -5,9 +5,9 @@
 
   <testsuite name="todo.03-todo-03"
     errors="0" failures="0" hostname="" id="" package="todo" skipped="0"
-    tests="1" time="1.352" timestamp="">
+    tests="1" time="1.304" timestamp="">
   
-    <testcase name="On page load, it sets focus on the input field" classname="todo.03-todo-03" time="1.352" assertions="2">
+    <testcase name="On page load, it sets focus on the input field" classname="todo.03-todo-03" time="1.304" assertions="2">
 
     
 

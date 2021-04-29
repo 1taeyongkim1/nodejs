@@ -5,14 +5,14 @@
 
   <testsuite name="03-api-url"
     errors="0" failures="0" hostname="" id="" package="03-api-url" skipped="0"
-    tests="2" time="4.097" timestamp="">
+    tests="2" time="4.039" timestamp="">
   
-    <testcase name="demo test google" classname="03-api-url" time="1.472" assertions="1">
+    <testcase name="demo test google" classname="03-api-url" time="1.309" assertions="1">
 
     
     </testcase>
   
-    <testcase name="part two" classname="03-api-url" time="2.625" assertions="1">
+    <testcase name="part two" classname="03-api-url" time="2.730" assertions="1">
 
     
     </testcase>

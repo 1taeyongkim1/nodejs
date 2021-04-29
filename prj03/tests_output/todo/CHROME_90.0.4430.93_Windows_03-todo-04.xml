@@ -5,9 +5,9 @@
 
   <testsuite name="todo.03-todo-04"
     errors="0" failures="0" hostname="" id="" package="todo" skipped="0"
-    tests="1" time="0.9200" timestamp="">
+    tests="1" time="1.248" timestamp="">
   
-    <testcase name="When I add a task, it shows todo items" classname="todo.03-todo-04" time="0.9200" assertions="2">
+    <testcase name="When I add a task, it shows todo items" classname="todo.03-todo-04" time="1.248" assertions="2">
 
     
 

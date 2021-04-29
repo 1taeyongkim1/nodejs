@@ -5,9 +5,9 @@
 
   <testsuite name="todo.03-todo-02"
     errors="0" failures="0" hostname="" id="" package="todo" skipped="0"
-    tests="1" time="0.9870" timestamp="">
+    tests="1" time="0.7180" timestamp="">
   
-    <testcase name="Does not show the footer if there are no tasks" classname="todo.03-todo-02" time="0.9870" assertions="2">
+    <testcase name="Does not show the footer if there are no tasks" classname="todo.03-todo-02" time="0.7180" assertions="2">
 
     
 

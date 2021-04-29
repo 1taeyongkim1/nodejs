@@ -5,9 +5,9 @@
 
   <testsuite name="todo.03-todo-05"
     errors="0" failures="0" hostname="" id="" package="todo" skipped="0"
-    tests="1" time="1.707" timestamp="">
+    tests="1" time="1.785" timestamp="">
   
-    <testcase name="Marks a todo item as completed by striking through it" classname="todo.03-todo-05" time="1.707" assertions="2">
+    <testcase name="Marks a todo item as completed by striking through it" classname="todo.03-todo-05" time="1.785" assertions="2">
 
     
 

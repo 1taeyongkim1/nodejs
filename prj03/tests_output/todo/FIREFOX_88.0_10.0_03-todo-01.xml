@@ -5,9 +5,9 @@
 
   <testsuite name="todo.03-todo-01"
     errors="0" failures="0" hostname="" id="" package="todo" skipped="0"
-    tests="1" time="1.372" timestamp="">
+    tests="1" time="1.347" timestamp="">
   
-    <testcase name="Does not show the task list if there are no tasks" classname="todo.03-todo-01" time="1.372" assertions="2">
+    <testcase name="Does not show the task list if there are no tasks" classname="todo.03-todo-01" time="1.347" assertions="2">
 
     
 

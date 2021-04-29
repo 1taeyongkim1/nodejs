@@ -3,11 +3,11 @@
             failures="0"
             tests="1">
 
-  <testsuite name="todo.03-todo-05"
+  <testsuite name="todo.03-todo-07"
     errors="0" failures="0" hostname="" id="" package="todo" skipped="0"
-    tests="1" time="0.9110" timestamp="">
+    tests="1" time="2.079" timestamp="">
   
-    <testcase name="Marks a todo item as completed by striking through it" classname="todo.03-todo-05" time="0.9110" assertions="2">
+    <testcase name="Does not add empty or blank tasks" classname="todo.03-todo-07" time="2.079" assertions="2">
 
     
 

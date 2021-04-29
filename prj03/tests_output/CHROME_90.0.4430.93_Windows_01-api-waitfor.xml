@@ -5,9 +5,9 @@
 
   <testsuite name="01-api-waitfor"
     errors="0" failures="0" hostname="" id="" package="01-api-waitfor" skipped="0"
-    tests="1" time="1.925" timestamp="">
+    tests="1" time="1.408" timestamp="">
   
-    <testcase name="demo Test" classname="01-api-waitfor" time="1.925" assertions="2">
+    <testcase name="demo Test" classname="01-api-waitfor" time="1.408" assertions="2">
 
     
 
